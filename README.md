@@ -1,27 +1,20 @@
-# Rose pine theme for Omarchy
+# Rose pine dark theme for [Omakub](https://omakub.org/)
 
-A rose pine theme for [Omarchy](https://omarchy.org/).
+A rose pine dark theme for [Omakub](https://omakub.org/), based on [Omarchy Rose Pine Dark](https://github.com/guilhermetk/omarchy-rose-pine-dark) by [guilhermetk](https://github.com/guilhermetk)
 
-### Dark:
-
-![Omarchy Rose Pine Wallpaper](./assets/wallpaper.webp)
-![Omarchy Rose Pine Tools](./assets/tools.webp)
+### Preview:
 
 ### Color palette
 
-![Dark palette](./assets/palette.webp)
-
-
 ## Installation
 
-Use the builtin installation script (available after version 1.4.0):
+Use the builtin installation script:
 
-Dark:
 ```bash
-omarchy-theme-install https://github.com/guilhermetk/omarchy-rose-pine-dark
+omakub-theme-install https://github.com/Kasui92/omakub-rose-pine-dark-theme
 ```
 
 ### Acknowledgments
 
-- [Omarchy](https://omarchy.org/) Opinionated Arch/Hyprland Setup By DHH
+- [Omakub](https://omakub.org/) Opinionated Ubuntu Setup By [DHH](https://dhh.dk)
 - [Rose pine](https://rosepinetheme.com/) All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
